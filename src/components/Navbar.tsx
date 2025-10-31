@@ -8,7 +8,7 @@ export default function Navbar() {
           {/* Logo */}
           <div className="flex items-center">
             <Image
-              src="/logo.png"
+              src="/logo.jpg"
               alt="TASK ATLANTIC COMPANY LIMITED"
               width={180}
               height={45}
